@@ -1,0 +1,223 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.img-logo,
+.img-small {
+  height: 60px;
+}
+
+.bg-clear {
+  background-image: url("backgrounds/clear.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-clear {
+  color: #ffffff;
+}
+
+.bg-clear-n {
+  background-image: url("backgrounds/clear-n.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-clear-n {
+  color: #ffffff;
+}
+
+.bg-few-clouds {
+  background-image: url("backgrounds/few-clouds.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-few-clouds {
+  color: #000000;
+}
+
+.bg-few-clouds-n {
+  background-image: url("backgrounds/few-clouds-n.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-few-clouds-n {
+  color: #ffffff;
+}
+
+.bg-scattered-clouds {
+  background-image: url("backgrounds/scattered-clouds.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-scattered-clouds {
+  color: #000000;
+}
+
+.bg-scattered-clouds-n {
+  background-image: url("backgrounds/scattered-clouds-n.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-scattered-clouds-n {
+  color: #000000;
+}
+
+.bg-broken-clouds {
+  background-image: url("backgrounds/broken-clouds.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-broken-clouds {
+  color: #ffffff;
+}
+
+.bg-broken-clouds-n {
+  background-image: url("backgrounds/broken-clouds-n.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-broken-clouds-n {
+  color: #ffffff;
+}
+
+.bg-rain {
+  background-image: url("backgrounds/rain.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-rain {
+  color: #ffffff;
+}
+
+.bg-rain-n {
+  background-image: url("backgrounds/rain.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-rain-n {
+  color: #ffffff;
+}
+
+.bg-shower-rain {
+  background-image: url("backgrounds/shower-rain.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-shower-rain {
+  color: #000;
+}
+
+.bg-shower-rain-n {
+  background-image: url("backgrounds/shower-rain.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-shower-rain-n {
+  color: #000;
+}
+
+.bg-thunderstorm {
+  background-image: url("backgrounds/thunderstorm.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-thunderstorm {
+  color: #000;
+}
+
+.bg-thunderstorm-n {
+  background-image: url("backgrounds/thunderstorm-n.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-thunderstorm-n {
+  color: #fff;
+}
+
+.bg-snow {
+  background-image: url("backgrounds/snow.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-snow {
+  color: #000;
+}
+
+.bg-snow-n {
+  background-image: url("backgrounds/snow-n.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-snow-n {
+  color: #fff;
+}
+
+.bg-mist {
+  background-image: url("backgrounds/mist.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-mist {
+  color: #000;
+}
+
+.bg-mist-n {
+  background-image: url("backgrounds/mist-n.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-mist-n {
+  color: #fff;
+}

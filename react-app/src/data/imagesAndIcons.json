@@ -1,0 +1,92 @@
+{
+  "01d": {
+    "textClass": "text-clear",
+    "bgClass": "bg-clear",
+    "iconElem": "assets/img/icons/clear.svg"
+  },
+  "01n": {
+    "textClass": "text-clear-n",
+    "bgClass": "bg-clear-n",
+    "iconElem": "assets/img/icons/clear-n.svg"
+  },
+  "02d": {
+    "textClass": "text-few-clouds",
+    "bgClass": "bg-few-clouds",
+    "iconElem": "assets/img/icons/few-clouds.svg"
+  },
+  "02n": {
+    "textClass": "text-few-clouds-n",
+    "bgClass": "bg-few-clouds-n",
+    "iconElem": "assets/img/icons/few-clouds-n.svg"
+  },
+  "03d": {
+    "textClass": "text-scattered-clouds",
+    "bgClass": "bg-scattered-clouds",
+    "iconElem": "assets/img/icons/scattered-clouds.svg"
+  },
+  "03n": {
+    "textClass": "text-scattered-clouds-n",
+    "bgClass": "bg-scattered-clouds-n",
+    "iconElem": "assets/img/icons/scattered-clouds-n.svg"
+  },
+  "04d": {
+    "textClass": "text-broken-clouds",
+    "bgClass": "bg-broken-clouds",
+    "iconElem": "assets/img/icons/broken-clouds.svg"
+  },
+  "04n": {
+    "textClass": "text-broken-clouds-n",
+    "bgClass": "bg-broken-clouds-n",
+    "iconElem": "assets/img/icons/broken-clouds-n.svg"
+  },
+  "09d": {
+    "textClass": "text-shower-rain",
+    "bgClass": "bg-shower-rain",
+    "iconElem": "assets/img/icons/shower-rain.svg"
+  },
+  "09n": {
+    "textClass": "text-shower-rain-n",
+    "bgClass": "bg-shower-rain-n",
+    "iconElem": "assets/img/icons/shower-rain-n.svg"
+  },
+  "10d": {
+    "textClass": "text-rain",
+    "bgClass": "bg-rain",
+    "iconElem": "assets/img/icons/rain.svg"
+  },
+  "10n": {
+    "textClass": "text-rain-n",
+    "bgClass": "bg-rain-n",
+    "iconElem": "assets/img/icons/rain-n.svg"
+  },
+  "11d": {
+    "textClass": "text-thunderstorm",
+    "bgClass": "bg-thunderstorm",
+    "iconElem": "assets/img/icons/thunderstorm.svg"
+  },
+  "11n": {
+    "textClass": "text-thunderstorm-n",
+    "bgClass": "bg-thunderstorm-n",
+    "iconElem": "assets/img/icons/thunderstorm-n.svg"
+  },
+  "13d": {
+    "textClass": "text-snow",
+    "bgClass": "bg-snow",
+    "iconElem": "assets/img/icons/snow.svg"
+  },
+  "13n": {
+    "textClass": "text-snow-n",
+    "bgClass": "bg-snow-n",
+    "iconElem": "assets/img/icons/snow-n.svg"
+  },
+  "50d": {
+    "textClass": "text-mist",
+    "bgClass": "bg-mist",
+    "iconElem": "assets/img/icons/mist.svg"
+  },
+  "50n": {
+    "textClass": "text-mist-n",
+    "bgClass": "bg-mist-n",
+    "iconElem": "assets/img/icons/mist-n.svg"
+  }
+}
